@@ -1,0 +1,6 @@
+cluster,size,best_matching_true_theme,purity,top_terms
+1,348,Wait times,0.3045977011494253,"card, wait, statement, online, reply"
+3,89,Billing & fees,0.7640449438202247,"account, fee, charged, account charged, twice"
+4,82,App / online banking,1.0,"app, transfer, screen, payment screen, freezes"
+0,33,Communication,0.7272727272727273,"did, notice, fees, fees notice, did account"
+2,24,Card issues,1.0,"maintenance fee, maintenance, hit, fee explained, hit unexpected"

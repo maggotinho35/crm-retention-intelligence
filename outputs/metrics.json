@@ -1,0 +1,89 @@
+{
+  "assumptions": {
+    "base_annual_revenue_eur": 60.0,
+    "revenue_rate_on_balance": 0.012,
+    "retention_horizon_years": 3.0,
+    "offer_cost_eur": 45.0,
+    "save_rate": 0.2,
+    "team_capacity_share": 0.2,
+    "cross_sell_margin_eur": 35.0,
+    "cross_sell_acceptance_baseline": 0.03
+  },
+  "seed": 42,
+  "n_customers": 1200,
+  "churn_rate": 0.24666666666666667,
+  "n_complaints": 576,
+  "n_holdout": 300,
+  "n_holdout_churners": 74,
+  "churn_selected_model": "Logistic Regression",
+  "churn_holdout_auc": 0.83042334369768,
+  "churn_auc_ci": [
+    0.7689248529374544,
+    0.882491884057971
+  ],
+  "churn_pr_auc": 0.6652654221511867,
+  "churn_cv_auc": 0.8699881714750995,
+  "calibration": {
+    "model": "Logistic Regression",
+    "oof_brier_raw": 0.11425262686509648,
+    "oof_brier_calibrated": 0.1152758163492984,
+    "calibration_applied": false,
+    "holdout_brier_final": 0.1305752381880699,
+    "holdout_auc_final": 0.83042334369768
+  },
+  "gated_contacted": 29,
+  "gated_share": 0.09666666666666666,
+  "gated_precision": 0.896551724137931,
+  "gated_recall": 0.35135135135135137,
+  "gated_net_per_1000": 3013.774319999999,
+  "gated_roi": 0.6928216827586205,
+  "random_net_per_1000": -5273.128848,
+  "blanket_net_per_1000": -26365.64424,
+  "rule_precision": 0.8095238095238095,
+  "rule_net_per_1000": 1296.2318400000004,
+  "bootstrap_vs_random": {
+    "diff_mean": 8272.980483264,
+    "diff_ci_low": 6996.5847,
+    "diff_ci_high": 9498.9541188,
+    "net_ci_low": 1434.3364140000006,
+    "net_ci_high": 4699.1969819999995
+  },
+  "break_even_save_rate_fixed_capacity": 0.16499999999999998,
+  "rule_quality_all_customers": {
+    "flagged": 85,
+    "flagged_share": 0.07083333333333333,
+    "churn_rate_flagged": 0.8,
+    "base_churn_rate": 0.24666666666666667,
+    "lift": 3.2432432432432434,
+    "recall": 0.22972972972972974
+  },
+  "rule_quality_holdout": {
+    "flagged": 21,
+    "flagged_share": 0.07,
+    "churn_rate_flagged": 0.8095238095238095,
+    "base_churn_rate": 0.24666666666666667,
+    "lift": 3.281853281853282,
+    "recall": 0.22972972972972974
+  },
+  "top20_recall": 0.5540540540540541,
+  "top10_recall": 0.3108108108108108,
+  "complaint_ari_kmeans": 0.1264678456130663,
+  "complaint_silhouette_kmeans": 0.12304192810544004,
+  "supervised_macro_f1": 0.9329560229854585,
+  "complaint_f1_at_150": 0.9123426059707024,
+  "nbo_hit_at_2": {
+    "Association rules, ranked by lift (portfolio as specified)": 0.5423,
+    "Rules + popularity back-off (ranked by confidence)": 0.7153,
+    "Propensity model (LogReg)": 0.7677,
+    "Generic script (most popular)": 0.6996,
+    "Random": 0.4153
+  },
+  "tool_scores": {
+    "A: Open-source stack": 3.5,
+    "B: Microsoft stack": 4.2,
+    "C: Enterprise suite (SAS/IBM)": 3.35
+  },
+  "tool_b_win_prob": 0.91425,
+  "tool_b_win_prob_weights_only": 0.976,
+  "tool_cost_weight_flip": 0.40800000000000003
+}

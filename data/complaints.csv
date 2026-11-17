@@ -1,0 +1,577 @@
+customer_id,true_category,complaint_text
+C100000,app_technical,"Again, online portal is down again and I cannot see my balance. I expect a reply."
+C100002,billing_fees,This has been a poor experience overall. Please fix this.
+C100006,billing_fees,My account was charged twice for the same monthly fee.
+C100009,card_issues,The replacement card came with the wrong PIN letter. Please fix this.
+C100014,app_technical,Online portal is down again and I cannot see my balance.
+C100015,app_technical,The app freezes on the payment screen every time.
+C100016,app_technical,Online portal is down again and I cannot see my balance.
+C100017,card_issues,"Again, card payment declined even though I have enough funds. I expect a reply."
+C100020,communication,Something is wrong with my account and I need help. I expect a reply.
+C100023,card_issues,My new credit card has still not arrived after three weeks.
+C100025,billing_fees,Why did my account fees go up without any notice?
+C100026,card_issues,I am not happy with the service I received.
+C100027,wait_time,The wait for my loan paperwork to be processed took weeks.
+C100031,communication,Nobody told me what was happening with my application.
+C100032,card_issues,My card was swallowed by the cash machine.
+C100035,wait_time,The wait at the branch was far too long.
+C100036,billing_fees,"Again, there is a billing error on my last statement and I want a refund."
+C100038,billing_fees,Why did my account fees go up without any notice?
+C100040,billing_fees,My account was charged twice for the same monthly fee.
+C100041,billing_fees,My statement shows a charge I do not recognise.
+C100043,wait_time,Waiting time at the counter is unacceptable.
+C100045,app_technical,Online banking website is extremely slow and times out.
+C100049,app_technical,This has been a poor experience overall. This is unacceptable.
+C100052,wait_time,Every visit to the branch means a long wait in the queue.
+C100056,billing_fees,I was hit with an unexpected maintenance fee that nobody explained.
+C100057,app_technical,"I cannot complete a transfer in the app, it shows an error. This is unacceptable."
+C100060,billing_fees,I was hit with an unexpected maintenance fee that nobody explained. I expect a reply.
+C100061,billing_fees,My account was charged twice for the same monthly fee.
+C100062,communication,"Again, nobody explained why my request was rejected."
+C100069,app_technical,The mobile app keeps crashing when I try to log in.
+C100070,wait_time,The wait for my loan paperwork to be processed took weeks.
+C100071,billing_fees,My statement shows a charge I do not recognise.
+C100073,wait_time,Waiting time at the counter is unacceptable.
+C100076,app_technical,Online portal is down again and I cannot see my balance.
+C100078,billing_fees,The new account fee is much higher than what was promised.
+C100079,communication,"Again, no one called me back as promised."
+C100080,app_technical,"I cannot complete a transfer in the app, it shows an error."
+C100081,billing_fees,Last week why did my account fees go up without any notice?
+C100082,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100083,app_technical,I am not happy with the service I received.
+C100085,app_technical,"Again, this has been a poor experience overall. This is unacceptable."
+C100086,app_technical,Online portal is down again and I cannot see my balance.
+C100087,billing_fees,There is a billing error on my last statement and I want a refund.
+C100088,communication,I was never informed about the change to my account terms.
+C100090,billing_fees,The new account fee is much higher than what was promised.
+C100091,billing_fees,Last week the new account fee is much higher than what was promised.
+C100092,app_technical,"I cannot complete a transfer in the app, it shows an error. I expect a reply."
+C100093,billing_fees,My account was charged twice for the same monthly fee.
+C100094,app_technical,Two-factor code never arrives so I cannot get into the app.
+C100095,app_technical,The app logs me out in the middle of a transfer. I expect a reply.
+C100099,communication,I only found out about the change by accident.
+C100104,communication,The advisor did not explain the options clearly.
+C100106,communication,Nobody told me what was happening with my application. I expect a reply.
+C100107,card_issues,The card reader kept rejecting my chip card at the store.
+C100109,billing_fees,My statement shows a charge I do not recognise. I expect a reply.
+C100110,app_technical,I would like someone to look into my account please.
+C100111,billing_fees,Why did my account fees go up without any notice?
+C100117,card_issues,The replacement card came with the wrong PIN letter.
+C100120,communication,"Again, something is wrong with my account and I need help."
+C100122,billing_fees,Last week why did my account fees go up without any notice?
+C100126,wait_time,Waiting time at the counter is unacceptable.
+C100128,app_technical,The app freezes on the payment screen every time. This is unacceptable.
+C100129,wait_time,"Customer service wait times are terrible, it took days to reply."
+C100130,billing_fees,My account was charged twice for the same monthly fee.
+C100131,card_issues,My new credit card has still not arrived after three weeks.
+C100132,wait_time,Last week i was on hold for an hour and the wait ended with a dropped call. This is unacceptable.
+C100133,wait_time,Waiting time at the counter is unacceptable. I expect a reply.
+C100134,card_issues,My new credit card has still not arrived after three weeks.
+C100136,app_technical,Login to online banking fails after the latest update.
+C100141,wait_time,"Customer service wait times are terrible, it took days to reply."
+C100142,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100147,billing_fees,Why did my account fees go up without any notice?
+C100148,card_issues,I was refused at the till because the card was flagged.
+C100150,wait_time,"Customer service wait times are terrible, it took days to reply."
+C100151,card_issues,Card payment declined even though I have enough funds.
+C100152,billing_fees,My account was charged twice for the same monthly fee.
+C100158,billing_fees,My account was charged twice for the same monthly fee. Please fix this.
+C100159,card_issues,My new credit card has still not arrived after three weeks.
+C100160,app_technical,Online portal is down again and I cannot see my balance.
+C100161,app_technical,"I cannot complete a transfer in the app, it shows an error."
+C100164,app_technical,This has been a poor experience overall.
+C100165,wait_time,"Staff took too long, I waited ages for a simple transaction. I expect a reply."
+C100170,wait_time,Something is wrong with my account and I need help.
+C100171,wait_time,The wait at the branch was far too long.
+C100172,billing_fees,I was hit with an unexpected maintenance fee that nobody explained. Please fix this.
+C100175,billing_fees,I was hit with an unexpected maintenance fee that nobody explained. This is unacceptable.
+C100180,card_issues,My card was swallowed by the cash machine.
+C100181,app_technical,Login to online banking fails after the latest update.
+C100182,card_issues,I was refused at the till because the card was flagged.
+C100183,app_technical,The app freezes on the payment screen every time.
+C100184,card_issues,"Again, the contactless payment on my card stopped working."
+C100185,wait_time,The wait at the branch was far too long.
+C100187,card_issues,Card payment declined even though I have enough funds.
+C100188,app_technical,The mobile app keeps crashing when I try to log in. This is unacceptable.
+C100189,billing_fees,The bank took a fee I never agreed to. I expect a reply.
+C100190,card_issues,Card payment declined even though I have enough funds.
+C100194,wait_time,"Staff took too long, I waited ages for a simple transaction. I expect a reply."
+C100197,billing_fees,My account was charged twice for the same monthly fee.
+C100198,billing_fees,The bank took a fee I never agreed to. I expect a reply.
+C100200,app_technical,Online banking website is extremely slow and times out. This is unacceptable.
+C100205,app_technical,The app freezes on the payment screen every time.
+C100207,app_technical,Online portal is down again and I cannot see my balance. This is unacceptable.
+C100209,card_issues,Last week the card reader kept rejecting my chip card at the store.
+C100210,wait_time,I was on hold for an hour and the wait ended with a dropped call.
+C100212,card_issues,I was refused at the till because the card was flagged. I expect a reply.
+C100213,wait_time,"Customer service wait times are terrible, it took days to reply."
+C100214,app_technical,"Again, the mobile app keeps crashing when I try to log in."
+C100215,wait_time,The wait for my loan paperwork to be processed took weeks.
+C100216,card_issues,Card payment declined even though I have enough funds. Please fix this.
+C100218,app_technical,"I cannot complete a transfer in the app, it shows an error. Please fix this."
+C100220,app_technical,The app logs me out in the middle of a transfer. I expect a reply.
+C100223,billing_fees,My statement shows a charge I do not recognise.
+C100225,communication,I keep getting passed between departments with no answer. This is unacceptable.
+C100226,app_technical,Login to online banking fails after the latest update.
+C100227,wait_time,The wait at the branch was far too long.
+C100233,billing_fees,Last week something is wrong with my account and I need help. I expect a reply.
+C100234,card_issues,"Again, my debit card was blocked for no reason while travelling. Please fix this."
+C100243,billing_fees,I was hit with an unexpected maintenance fee that nobody explained. This is unacceptable.
+C100247,billing_fees,I would like someone to look into my account please.
+C100249,wait_time,"Customer service wait times are terrible, it took days to reply. This is unacceptable."
+C100250,communication,Last week i was never informed about the change to my account terms. This is unacceptable.
+C100256,card_issues,I would like someone to look into my account please. This is unacceptable.
+C100258,wait_time,I would like someone to look into my account please.
+C100259,card_issues,"Again, my debit card was blocked for no reason while travelling."
+C100260,billing_fees,Why did my account fees go up without any notice? I expect a reply.
+C100261,wait_time,I would like someone to look into my account please.
+C100265,communication,I received conflicting information from two different advisers.
+C100267,billing_fees,Last week i was hit with an unexpected maintenance fee that nobody explained.
+C100268,billing_fees,Last week the overdraft charge on my statement is wrong and unclear.
+C100269,card_issues,My new credit card has still not arrived after three weeks.
+C100270,wait_time,"Staff took too long, I waited ages for a simple transaction. This is unacceptable."
+C100271,app_technical,Something is wrong with my account and I need help.
+C100273,communication,"Again, nobody told me what was happening with my application."
+C100276,card_issues,Last week the card reader kept rejecting my chip card at the store.
+C100278,billing_fees,"Again, my statement shows a charge I do not recognise."
+C100283,communication,I received conflicting information from two different advisers.
+C100284,app_technical,The mobile app keeps crashing when I try to log in.
+C100287,card_issues,The replacement card came with the wrong PIN letter.
+C100288,app_technical,The app logs me out in the middle of a transfer.
+C100289,billing_fees,The bank took a fee I never agreed to. This is unacceptable.
+C100290,billing_fees,Last week the bank took a fee I never agreed to. Please fix this.
+C100291,wait_time,Every visit to the branch means a long wait in the queue.
+C100295,wait_time,Every visit to the branch means a long wait in the queue.
+C100296,wait_time,Waiting time at the counter is unacceptable. Please fix this.
+C100297,billing_fees,The bank took a fee I never agreed to.
+C100300,billing_fees,"Again, why did my account fees go up without any notice? I expect a reply."
+C100305,communication,"Again, the advisor did not explain the options clearly."
+C100306,app_technical,This has been a poor experience overall.
+C100307,billing_fees,My statement shows a charge I do not recognise.
+C100309,wait_time,"Staff took too long, I waited ages for a simple transaction."
+C100315,billing_fees,My account was charged twice for the same monthly fee.
+C100316,wait_time,The wait at the branch was far too long.
+C100319,billing_fees,The bank took a fee I never agreed to.
+C100321,app_technical,The app freezes on the payment screen every time.
+C100324,billing_fees,The new account fee is much higher than what was promised.
+C100326,billing_fees,"Again, the overdraft charge on my statement is wrong and unclear. Please fix this."
+C100327,card_issues,My new credit card has still not arrived after three weeks. I expect a reply.
+C100331,app_technical,Login to online banking fails after the latest update.
+C100333,communication,The advisor did not explain the options clearly.
+C100335,billing_fees,My statement shows a charge I do not recognise.
+C100336,wait_time,The wait for my loan paperwork to be processed took weeks.
+C100337,app_technical,Last week two-factor code never arrives so I cannot get into the app.
+C100340,card_issues,The card reader kept rejecting my chip card at the store. This is unacceptable.
+C100341,card_issues,I was refused at the till because the card was flagged. I expect a reply.
+C100344,billing_fees,My account was charged twice for the same monthly fee. Please fix this.
+C100346,app_technical,The app logs me out in the middle of a transfer. This is unacceptable.
+C100347,wait_time,"Customer service wait times are terrible, it took days to reply."
+C100349,billing_fees,The bank took a fee I never agreed to.
+C100350,billing_fees,My account was charged twice for the same monthly fee. I expect a reply.
+C100353,billing_fees,Why did my account fees go up without any notice?
+C100354,billing_fees,The new account fee is much higher than what was promised.
+C100355,billing_fees,My statement shows a charge I do not recognise.
+C100358,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100361,app_technical,Online portal is down again and I cannot see my balance.
+C100365,card_issues,My new credit card has still not arrived after three weeks.
+C100366,card_issues,The card reader kept rejecting my chip card at the store.
+C100367,app_technical,Online portal is down again and I cannot see my balance. This is unacceptable.
+C100371,card_issues,"Again, the replacement card came with the wrong PIN letter. This is unacceptable."
+C100372,communication,Last week i would like someone to look into my account please.
+C100373,billing_fees,I was hit with an unexpected maintenance fee that nobody explained.
+C100376,app_technical,Online portal is down again and I cannot see my balance.
+C100378,app_technical,"Last week i cannot complete a transfer in the app, it shows an error."
+C100380,card_issues,My debit card was blocked for no reason while travelling.
+C100381,wait_time,The wait at the branch was far too long.
+C100385,card_issues,Last week my debit card was blocked for no reason while travelling. Please fix this.
+C100386,wait_time,I waited forty minutes on the phone before anyone answered. I expect a reply.
+C100388,card_issues,I am not happy with the service I received.
+C100389,billing_fees,This has been a poor experience overall. I expect a reply.
+C100392,wait_time,This has been a poor experience overall. Please fix this.
+C100394,card_issues,Something is wrong with my account and I need help.
+C100395,app_technical,The mobile app keeps crashing when I try to log in. This is unacceptable.
+C100396,app_technical,Two-factor code never arrives so I cannot get into the app.
+C100397,card_issues,My card was swallowed by the cash machine.
+C100402,communication,I received conflicting information from two different advisers. This is unacceptable.
+C100404,card_issues,My debit card was blocked for no reason while travelling.
+C100405,app_technical,"I cannot complete a transfer in the app, it shows an error. Please fix this."
+C100407,wait_time,Every visit to the branch means a long wait in the queue.
+C100408,billing_fees,Why did my account fees go up without any notice?
+C100412,communication,The advisor did not explain the options clearly.
+C100413,wait_time,The wait for my loan paperwork to be processed took weeks.
+C100414,app_technical,The app logs me out in the middle of a transfer.
+C100415,wait_time,Last week the wait at the branch was far too long.
+C100416,app_technical,Two-factor code never arrives so I cannot get into the app.
+C100419,card_issues,My card was swallowed by the cash machine. Please fix this.
+C100420,app_technical,Online banking website is extremely slow and times out. I expect a reply.
+C100421,app_technical,Online banking website is extremely slow and times out.
+C100423,billing_fees,Why did my account fees go up without any notice? I expect a reply.
+C100424,wait_time,I was on hold for an hour and the wait ended with a dropped call.
+C100427,app_technical,Last week two-factor code never arrives so I cannot get into the app.
+C100432,app_technical,"I cannot complete a transfer in the app, it shows an error. Please fix this."
+C100433,app_technical,"Again, i cannot complete a transfer in the app, it shows an error."
+C100434,billing_fees,Why did my account fees go up without any notice?
+C100436,wait_time,Last week the wait for my loan paperwork to be processed took weeks. I expect a reply.
+C100438,card_issues,The contactless payment on my card stopped working. I expect a reply.
+C100439,card_issues,My card was swallowed by the cash machine.
+C100440,billing_fees,I was hit with an unexpected maintenance fee that nobody explained. I expect a reply.
+C100447,communication,"Again, nobody explained why my request was rejected."
+C100449,app_technical,The app freezes on the payment screen every time.
+C100450,card_issues,The card reader kept rejecting my chip card at the store. Please fix this.
+C100451,wait_time,The wait for my loan paperwork to be processed took weeks. This is unacceptable.
+C100453,app_technical,"I cannot complete a transfer in the app, it shows an error."
+C100455,app_technical,Login to online banking fails after the latest update. I expect a reply.
+C100457,billing_fees,"Again, the overdraft charge on my statement is wrong and unclear. I expect a reply."
+C100458,app_technical,The app logs me out in the middle of a transfer.
+C100461,card_issues,The card reader kept rejecting my chip card at the store.
+C100462,app_technical,Last week the app logs me out in the middle of a transfer. I expect a reply.
+C100463,app_technical,The mobile app keeps crashing when I try to log in.
+C100466,billing_fees,Last week there is a billing error on my last statement and I want a refund.
+C100467,wait_time,I waited forty minutes on the phone before anyone answered.
+C100468,communication,Nobody explained why my request was rejected.
+C100471,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100476,communication,The advisor did not explain the options clearly.
+C100477,card_issues,Card payment declined even though I have enough funds.
+C100478,app_technical,The mobile app keeps crashing when I try to log in.
+C100480,wait_time,"Customer service wait times are terrible, it took days to reply."
+C100482,billing_fees,"Again, the new account fee is much higher than what was promised. This is unacceptable."
+C100484,app_technical,The app freezes on the payment screen every time.
+C100487,billing_fees,My account was charged twice for the same monthly fee.
+C100488,communication,"Again, i only found out about the change by accident."
+C100489,wait_time,Last week every visit to the branch means a long wait in the queue. I expect a reply.
+C100492,app_technical,The mobile app keeps crashing when I try to log in.
+C100493,wait_time,I waited forty minutes on the phone before anyone answered.
+C100495,billing_fees,My account was charged twice for the same monthly fee.
+C100500,wait_time,The wait at the branch was far too long.
+C100502,wait_time,The wait for my loan paperwork to be processed took weeks.
+C100504,app_technical,Two-factor code never arrives so I cannot get into the app.
+C100505,billing_fees,My statement shows a charge I do not recognise.
+C100507,card_issues,"Again, i am not happy with the service I received. This is unacceptable."
+C100508,app_technical,This has been a poor experience overall. I expect a reply.
+C100510,wait_time,"Staff took too long, I waited ages for a simple transaction. This is unacceptable."
+C100512,app_technical,Online banking website is extremely slow and times out.
+C100515,app_technical,Online portal is down again and I cannot see my balance.
+C100517,card_issues,The contactless payment on my card stopped working.
+C100518,card_issues,My debit card was blocked for no reason while travelling. Please fix this.
+C100519,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100521,app_technical,Last week online portal is down again and I cannot see my balance. Please fix this.
+C100524,communication,Nobody told me what was happening with my application.
+C100525,billing_fees,There is a billing error on my last statement and I want a refund. This is unacceptable.
+C100527,billing_fees,Why did my account fees go up without any notice?
+C100533,app_technical,Online portal is down again and I cannot see my balance.
+C100534,app_technical,The mobile app keeps crashing when I try to log in.
+C100536,communication,Last week the advisor did not explain the options clearly.
+C100540,communication,Last week no one called me back as promised. I expect a reply.
+C100541,wait_time,Every visit to the branch means a long wait in the queue.
+C100543,billing_fees,"Again, i was hit with an unexpected maintenance fee that nobody explained. This is unacceptable."
+C100545,communication,I only found out about the change by accident.
+C100548,wait_time,"Customer service wait times are terrible, it took days to reply."
+C100551,card_issues,"Again, the replacement card came with the wrong PIN letter."
+C100555,app_technical,The app logs me out in the middle of a transfer.
+C100556,card_issues,My new credit card has still not arrived after three weeks. Please fix this.
+C100557,card_issues,My card was swallowed by the cash machine.
+C100559,communication,Nobody explained why my request was rejected.
+C100560,app_technical,The mobile app keeps crashing when I try to log in.
+C100561,billing_fees,There is a billing error on my last statement and I want a refund.
+C100562,billing_fees,The new account fee is much higher than what was promised. Please fix this.
+C100566,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100569,card_issues,I was refused at the till because the card was flagged. I expect a reply.
+C100570,card_issues,My debit card was blocked for no reason while travelling.
+C100574,billing_fees,I was hit with an unexpected maintenance fee that nobody explained.
+C100575,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100576,app_technical,Online banking website is extremely slow and times out.
+C100577,wait_time,"Customer service wait times are terrible, it took days to reply."
+C100580,app_technical,The app freezes on the payment screen every time.
+C100581,app_technical,"I cannot complete a transfer in the app, it shows an error."
+C100582,app_technical,Login to online banking fails after the latest update.
+C100590,wait_time,"Staff took too long, I waited ages for a simple transaction."
+C100591,card_issues,"Again, the card reader kept rejecting my chip card at the store. Please fix this."
+C100595,billing_fees,The new account fee is much higher than what was promised.
+C100596,card_issues,My card was swallowed by the cash machine.
+C100599,billing_fees,My statement shows a charge I do not recognise.
+C100600,app_technical,Login to online banking fails after the latest update.
+C100602,card_issues,The replacement card came with the wrong PIN letter. I expect a reply.
+C100604,wait_time,"Again, i was on hold for an hour and the wait ended with a dropped call. I expect a reply."
+C100608,wait_time,Last week every visit to the branch means a long wait in the queue.
+C100614,wait_time,"Customer service wait times are terrible, it took days to reply."
+C100615,app_technical,The mobile app keeps crashing when I try to log in.
+C100616,app_technical,The app logs me out in the middle of a transfer.
+C100620,wait_time,Last week every visit to the branch means a long wait in the queue.
+C100622,app_technical,Something is wrong with my account and I need help. I expect a reply.
+C100623,app_technical,Online banking website is extremely slow and times out. Please fix this.
+C100624,app_technical,"Again, online banking website is extremely slow and times out. I expect a reply."
+C100625,app_technical,"Again, the app freezes on the payment screen every time."
+C100631,wait_time,Every visit to the branch means a long wait in the queue.
+C100634,card_issues,Card payment declined even though I have enough funds. I expect a reply.
+C100635,card_issues,Card payment declined even though I have enough funds. I expect a reply.
+C100636,billing_fees,Why did my account fees go up without any notice?
+C100637,wait_time,Last week i waited forty minutes on the phone before anyone answered.
+C100639,app_technical,Online banking website is extremely slow and times out.
+C100640,billing_fees,The new account fee is much higher than what was promised. Please fix this.
+C100641,wait_time,Waiting time at the counter is unacceptable.
+C100643,card_issues,Something is wrong with my account and I need help.
+C100644,billing_fees,The new account fee is much higher than what was promised.
+C100646,wait_time,Every visit to the branch means a long wait in the queue. I expect a reply.
+C100647,app_technical,The app logs me out in the middle of a transfer. I expect a reply.
+C100653,billing_fees,Last week there is a billing error on my last statement and I want a refund. I expect a reply.
+C100656,billing_fees,The new account fee is much higher than what was promised. This is unacceptable.
+C100657,app_technical,Two-factor code never arrives so I cannot get into the app. Please fix this.
+C100660,card_issues,Last week my debit card was blocked for no reason while travelling.
+C100663,billing_fees,I was hit with an unexpected maintenance fee that nobody explained.
+C100664,card_issues,My card was swallowed by the cash machine. Please fix this.
+C100666,billing_fees,"Again, i was hit with an unexpected maintenance fee that nobody explained. I expect a reply."
+C100667,billing_fees,Last week my account was charged twice for the same monthly fee.
+C100668,app_technical,Login to online banking fails after the latest update.
+C100669,billing_fees,Why did my account fees go up without any notice?
+C100670,card_issues,My new credit card has still not arrived after three weeks.
+C100671,card_issues,I was refused at the till because the card was flagged.
+C100672,app_technical,Login to online banking fails after the latest update. This is unacceptable.
+C100678,wait_time,"Last week customer service wait times are terrible, it took days to reply. I expect a reply."
+C100679,wait_time,"Customer service wait times are terrible, it took days to reply. This is unacceptable."
+C100681,app_technical,The app freezes on the payment screen every time.
+C100682,wait_time,I was on hold for an hour and the wait ended with a dropped call. Please fix this.
+C100684,billing_fees,I was hit with an unexpected maintenance fee that nobody explained. Please fix this.
+C100685,wait_time,Last week the wait at the branch was far too long.
+C100689,billing_fees,The bank took a fee I never agreed to. Please fix this.
+C100691,wait_time,"Again, i waited forty minutes on the phone before anyone answered."
+C100696,billing_fees,My account was charged twice for the same monthly fee. This is unacceptable.
+C100698,wait_time,Something is wrong with my account and I need help.
+C100701,card_issues,"Again, i was refused at the till because the card was flagged."
+C100702,communication,I only found out about the change by accident.
+C100703,app_technical,Online portal is down again and I cannot see my balance.
+C100704,card_issues,The contactless payment on my card stopped working.
+C100707,card_issues,My card was swallowed by the cash machine.
+C100708,card_issues,Card payment declined even though I have enough funds.
+C100709,billing_fees,My account was charged twice for the same monthly fee.
+C100710,billing_fees,My statement shows a charge I do not recognise.
+C100711,card_issues,I was refused at the till because the card was flagged. Please fix this.
+C100712,app_technical,I am not happy with the service I received.
+C100713,app_technical,The app freezes on the payment screen every time. Please fix this.
+C100714,app_technical,"Again, i am not happy with the service I received."
+C100715,wait_time,"Again, staff took too long, I waited ages for a simple transaction."
+C100718,billing_fees,There is a billing error on my last statement and I want a refund.
+C100719,wait_time,Last week i was on hold for an hour and the wait ended with a dropped call.
+C100722,wait_time,Something is wrong with my account and I need help. This is unacceptable.
+C100728,billing_fees,"Again, i was hit with an unexpected maintenance fee that nobody explained."
+C100731,app_technical,"Again, the app freezes on the payment screen every time."
+C100733,communication,I keep getting passed between departments with no answer. Please fix this.
+C100734,billing_fees,My account was charged twice for the same monthly fee.
+C100743,wait_time,Every visit to the branch means a long wait in the queue.
+C100746,wait_time,"Customer service wait times are terrible, it took days to reply."
+C100747,billing_fees,There is a billing error on my last statement and I want a refund.
+C100748,billing_fees,I was hit with an unexpected maintenance fee that nobody explained.
+C100750,billing_fees,There is a billing error on my last statement and I want a refund. Please fix this.
+C100751,app_technical,Login to online banking fails after the latest update. Please fix this.
+C100754,billing_fees,This has been a poor experience overall. Please fix this.
+C100765,wait_time,"Again, staff took too long, I waited ages for a simple transaction. Please fix this."
+C100768,billing_fees,There is a billing error on my last statement and I want a refund.
+C100769,card_issues,The card reader kept rejecting my chip card at the store.
+C100773,card_issues,I was refused at the till because the card was flagged.
+C100774,app_technical,"Again, i cannot complete a transfer in the app, it shows an error."
+C100775,billing_fees,I was hit with an unexpected maintenance fee that nobody explained. I expect a reply.
+C100776,billing_fees,Why did my account fees go up without any notice?
+C100777,billing_fees,"Again, i would like someone to look into my account please. I expect a reply."
+C100778,app_technical,This has been a poor experience overall.
+C100779,card_issues,I was refused at the till because the card was flagged.
+C100780,wait_time,"Again, i am not happy with the service I received."
+C100783,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100784,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100786,billing_fees,The bank took a fee I never agreed to.
+C100791,app_technical,"Again, login to online banking fails after the latest update."
+C100792,billing_fees,My account was charged twice for the same monthly fee.
+C100794,billing_fees,I would like someone to look into my account please.
+C100795,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100798,billing_fees,My account was charged twice for the same monthly fee.
+C100799,card_issues,The replacement card came with the wrong PIN letter. I expect a reply.
+C100800,app_technical,Last week the app freezes on the payment screen every time.
+C100802,wait_time,The wait for my loan paperwork to be processed took weeks. I expect a reply.
+C100804,billing_fees,The bank took a fee I never agreed to.
+C100811,billing_fees,The new account fee is much higher than what was promised.
+C100816,billing_fees,The bank took a fee I never agreed to. I expect a reply.
+C100818,wait_time,Every visit to the branch means a long wait in the queue. This is unacceptable.
+C100820,billing_fees,I was hit with an unexpected maintenance fee that nobody explained.
+C100821,billing_fees,I was hit with an unexpected maintenance fee that nobody explained.
+C100824,wait_time,The wait for my loan paperwork to be processed took weeks.
+C100826,billing_fees,"Again, the new account fee is much higher than what was promised. Please fix this."
+C100827,wait_time,"Again, waiting time at the counter is unacceptable."
+C100832,wait_time,"Last week staff took too long, I waited ages for a simple transaction."
+C100834,billing_fees,The bank took a fee I never agreed to. This is unacceptable.
+C100836,billing_fees,Why did my account fees go up without any notice? Please fix this.
+C100838,wait_time,Something is wrong with my account and I need help. Please fix this.
+C100839,communication,"Again, nobody told me what was happening with my application. I expect a reply."
+C100840,billing_fees,The new account fee is much higher than what was promised. I expect a reply.
+C100842,wait_time,Every visit to the branch means a long wait in the queue. Please fix this.
+C100847,billing_fees,My statement shows a charge I do not recognise.
+C100848,app_technical,The mobile app keeps crashing when I try to log in. This is unacceptable.
+C100849,card_issues,The replacement card came with the wrong PIN letter. I expect a reply.
+C100850,billing_fees,My account was charged twice for the same monthly fee.
+C100853,billing_fees,This has been a poor experience overall. I expect a reply.
+C100854,billing_fees,I was hit with an unexpected maintenance fee that nobody explained. I expect a reply.
+C100857,billing_fees,I was hit with an unexpected maintenance fee that nobody explained.
+C100860,app_technical,The mobile app keeps crashing when I try to log in. Please fix this.
+C100862,card_issues,My card was swallowed by the cash machine.
+C100866,wait_time,The wait at the branch was far too long.
+C100867,wait_time,The wait at the branch was far too long.
+C100868,app_technical,Login to online banking fails after the latest update.
+C100869,app_technical,"I cannot complete a transfer in the app, it shows an error. Please fix this."
+C100870,wait_time,I was on hold for an hour and the wait ended with a dropped call. This is unacceptable.
+C100871,card_issues,My debit card was blocked for no reason while travelling.
+C100872,card_issues,The replacement card came with the wrong PIN letter.
+C100874,communication,The advisor did not explain the options clearly. Please fix this.
+C100878,billing_fees,Why did my account fees go up without any notice?
+C100881,billing_fees,Last week i was hit with an unexpected maintenance fee that nobody explained.
+C100882,communication,I only found out about the change by accident. I expect a reply.
+C100884,billing_fees,"Again, my account was charged twice for the same monthly fee."
+C100886,card_issues,Card payment declined even though I have enough funds.
+C100887,app_technical,Online portal is down again and I cannot see my balance. I expect a reply.
+C100889,wait_time,"Again, waiting time at the counter is unacceptable."
+C100891,wait_time,Last week waiting time at the counter is unacceptable.
+C100894,communication,I was never informed about the change to my account terms. This is unacceptable.
+C100896,card_issues,The card reader kept rejecting my chip card at the store.
+C100899,billing_fees,There is a billing error on my last statement and I want a refund.
+C100900,card_issues,Card payment declined even though I have enough funds.
+C100901,billing_fees,"Again, i was hit with an unexpected maintenance fee that nobody explained. This is unacceptable."
+C100902,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C100904,billing_fees,Why did my account fees go up without any notice?
+C100905,billing_fees,The new account fee is much higher than what was promised. I expect a reply.
+C100908,communication,I received conflicting information from two different advisers.
+C100910,app_technical,"Again, login to online banking fails after the latest update."
+C100916,billing_fees,"Again, why did my account fees go up without any notice?"
+C100920,app_technical,Last week two-factor code never arrives so I cannot get into the app. This is unacceptable.
+C100921,app_technical,Last week i am not happy with the service I received.
+C100922,wait_time,Waiting time at the counter is unacceptable. I expect a reply.
+C100923,card_issues,The card reader kept rejecting my chip card at the store.
+C100926,communication,Nobody told me what was happening with my application. This is unacceptable.
+C100927,billing_fees,Why did my account fees go up without any notice?
+C100928,communication,I received conflicting information from two different advisers.
+C100929,wait_time,The wait for my loan paperwork to be processed took weeks. Please fix this.
+C100933,card_issues,My new credit card has still not arrived after three weeks. This is unacceptable.
+C100935,wait_time,"Again, i was on hold for an hour and the wait ended with a dropped call."
+C100937,wait_time,I would like someone to look into my account please.
+C100938,wait_time,Waiting time at the counter is unacceptable. I expect a reply.
+C100939,wait_time,The wait for my loan paperwork to be processed took weeks.
+C100940,wait_time,"Last week customer service wait times are terrible, it took days to reply."
+C100942,communication,No one called me back as promised. This is unacceptable.
+C100943,communication,The advisor did not explain the options clearly. I expect a reply.
+C100945,communication,I only found out about the change by accident. Please fix this.
+C100947,billing_fees,My account was charged twice for the same monthly fee. Please fix this.
+C100948,communication,I keep getting passed between departments with no answer.
+C100951,billing_fees,There is a billing error on my last statement and I want a refund. I expect a reply.
+C100953,app_technical,"I cannot complete a transfer in the app, it shows an error. Please fix this."
+C100955,communication,Last week nobody told me what was happening with my application.
+C100957,wait_time,"Staff took too long, I waited ages for a simple transaction."
+C100961,communication,"Again, i was never informed about the change to my account terms."
+C100962,billing_fees,"Again, my account was charged twice for the same monthly fee."
+C100964,wait_time,The wait for my loan paperwork to be processed took weeks. This is unacceptable.
+C100966,app_technical,The mobile app keeps crashing when I try to log in. This is unacceptable.
+C100968,wait_time,I was on hold for an hour and the wait ended with a dropped call.
+C100969,app_technical,The app freezes on the payment screen every time.
+C100970,billing_fees,I would like someone to look into my account please.
+C100972,billing_fees,Why did my account fees go up without any notice?
+C100974,app_technical,"Again, online banking website is extremely slow and times out. Please fix this."
+C100979,app_technical,The app freezes on the payment screen every time. This is unacceptable.
+C100980,billing_fees,"Again, there is a billing error on my last statement and I want a refund."
+C100981,communication,Nobody explained why my request was rejected.
+C100982,app_technical,This has been a poor experience overall. I expect a reply.
+C100983,card_issues,The card reader kept rejecting my chip card at the store.
+C100986,card_issues,My new credit card has still not arrived after three weeks.
+C100988,billing_fees,My account was charged twice for the same monthly fee.
+C100989,communication,No one called me back as promised.
+C100990,card_issues,I am not happy with the service I received.
+C100992,app_technical,"Again, the mobile app keeps crashing when I try to log in."
+C100996,app_technical,The app freezes on the payment screen every time.
+C100997,app_technical,Online banking website is extremely slow and times out.
+C100998,communication,I keep getting passed between departments with no answer. Please fix this.
+C101003,wait_time,Every visit to the branch means a long wait in the queue.
+C101005,billing_fees,"Again, the new account fee is much higher than what was promised."
+C101008,card_issues,My new credit card has still not arrived after three weeks.
+C101009,billing_fees,The new account fee is much higher than what was promised. Please fix this.
+C101013,app_technical,Two-factor code never arrives so I cannot get into the app.
+C101014,app_technical,Something is wrong with my account and I need help. Please fix this.
+C101015,app_technical,Last week i would like someone to look into my account please.
+C101017,wait_time,The wait at the branch was far too long.
+C101019,card_issues,"Again, the contactless payment on my card stopped working."
+C101023,wait_time,The wait at the branch was far too long.
+C101025,billing_fees,The new account fee is much higher than what was promised.
+C101026,communication,"Again, something is wrong with my account and I need help."
+C101029,card_issues,My debit card was blocked for no reason while travelling. Please fix this.
+C101031,communication,Last week nobody told me what was happening with my application.
+C101034,app_technical,The app freezes on the payment screen every time.
+C101036,wait_time,Last week the wait for my loan paperwork to be processed took weeks.
+C101040,billing_fees,I was hit with an unexpected maintenance fee that nobody explained.
+C101041,billing_fees,The new account fee is much higher than what was promised.
+C101044,app_technical,Online portal is down again and I cannot see my balance. Please fix this.
+C101050,billing_fees,"Again, i am not happy with the service I received."
+C101051,billing_fees,The bank took a fee I never agreed to.
+C101053,billing_fees,The new account fee is much higher than what was promised.
+C101054,wait_time,"Customer service wait times are terrible, it took days to reply."
+C101056,billing_fees,"Again, why did my account fees go up without any notice?"
+C101057,billing_fees,I would like someone to look into my account please.
+C101059,card_issues,"Again, i was refused at the till because the card was flagged."
+C101060,app_technical,"I cannot complete a transfer in the app, it shows an error."
+C101062,app_technical,Two-factor code never arrives so I cannot get into the app. I expect a reply.
+C101063,billing_fees,The new account fee is much higher than what was promised. I expect a reply.
+C101064,wait_time,I was on hold for an hour and the wait ended with a dropped call.
+C101066,card_issues,I was refused at the till because the card was flagged.
+C101067,communication,Nobody told me what was happening with my application.
+C101068,app_technical,The mobile app keeps crashing when I try to log in.
+C101070,communication,"Again, i received conflicting information from two different advisers."
+C101071,billing_fees,Why did my account fees go up without any notice? Please fix this.
+C101075,card_issues,I am not happy with the service I received.
+C101079,wait_time,"Last week customer service wait times are terrible, it took days to reply. This is unacceptable."
+C101080,app_technical,The app logs me out in the middle of a transfer.
+C101086,app_technical,The app logs me out in the middle of a transfer. Please fix this.
+C101088,wait_time,I was on hold for an hour and the wait ended with a dropped call.
+C101091,wait_time,Last week every visit to the branch means a long wait in the queue.
+C101094,app_technical,Two-factor code never arrives so I cannot get into the app. Please fix this.
+C101097,app_technical,"I cannot complete a transfer in the app, it shows an error."
+C101098,app_technical,Login to online banking fails after the latest update. This is unacceptable.
+C101106,communication,I only found out about the change by accident.
+C101107,app_technical,"I cannot complete a transfer in the app, it shows an error."
+C101109,app_technical,"I cannot complete a transfer in the app, it shows an error."
+C101112,billing_fees,The overdraft charge on my statement is wrong and unclear.
+C101114,billing_fees,I was hit with an unexpected maintenance fee that nobody explained.
+C101115,wait_time,"Again, waiting time at the counter is unacceptable."
+C101119,app_technical,"Again, the app logs me out in the middle of a transfer. Please fix this."
+C101120,card_issues,The replacement card came with the wrong PIN letter.
+C101121,card_issues,"Again, my debit card was blocked for no reason while travelling. I expect a reply."
+C101122,billing_fees,My statement shows a charge I do not recognise.
+C101123,card_issues,I was refused at the till because the card was flagged. I expect a reply.
+C101125,communication,Nobody told me what was happening with my application.
+C101128,billing_fees,"Again, my statement shows a charge I do not recognise."
+C101130,app_technical,Online portal is down again and I cannot see my balance. This is unacceptable.
+C101132,card_issues,Card payment declined even though I have enough funds.
+C101134,wait_time,The wait at the branch was far too long.
+C101135,app_technical,Last week online portal is down again and I cannot see my balance.
+C101136,card_issues,"Again, the contactless payment on my card stopped working."
+C101137,billing_fees,There is a billing error on my last statement and I want a refund.
+C101138,billing_fees,My account was charged twice for the same monthly fee.
+C101139,app_technical,Two-factor code never arrives so I cannot get into the app.
+C101143,card_issues,My new credit card has still not arrived after three weeks.
+C101148,communication,No one called me back as promised.
+C101156,app_technical,Two-factor code never arrives so I cannot get into the app.
+C101159,app_technical,"Again, the app freezes on the payment screen every time."
+C101161,wait_time,The wait for my loan paperwork to be processed took weeks. This is unacceptable.
+C101165,communication,The advisor did not explain the options clearly.
+C101166,app_technical,"Again, online banking website is extremely slow and times out."
+C101167,app_technical,The app logs me out in the middle of a transfer.
+C101168,app_technical,I would like someone to look into my account please.
+C101169,wait_time,The wait at the branch was far too long.
+C101170,card_issues,My card was swallowed by the cash machine.
+C101171,app_technical,The app logs me out in the middle of a transfer.
+C101172,app_technical,This has been a poor experience overall.
+C101175,communication,I keep getting passed between departments with no answer.
+C101178,billing_fees,My account was charged twice for the same monthly fee.
+C101179,billing_fees,I would like someone to look into my account please.
+C101181,wait_time,Last week i was on hold for an hour and the wait ended with a dropped call. This is unacceptable.
+C101183,billing_fees,There is a billing error on my last statement and I want a refund.
+C101184,wait_time,Last week the wait for my loan paperwork to be processed took weeks. This is unacceptable.
+C101185,app_technical,Last week the app freezes on the payment screen every time.
+C101186,app_technical,This has been a poor experience overall.
+C101187,communication,I would like someone to look into my account please. I expect a reply.
+C101188,card_issues,Last week this has been a poor experience overall.
+C101190,wait_time,"Again, staff took too long, I waited ages for a simple transaction."
+C101191,wait_time,Every visit to the branch means a long wait in the queue.
+C101192,wait_time,Last week waiting time at the counter is unacceptable. This is unacceptable.
+C101195,billing_fees,The new account fee is much higher than what was promised. This is unacceptable.
+C101199,app_technical,Two-factor code never arrives so I cannot get into the app.

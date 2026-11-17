@@ -1,0 +1,5 @@
+method,silhouette,ari_vs_true_category,macro_f1
+TF-IDF + k-means (portfolio baseline),0.12304192810544004,0.1264678456130663,
+LSA (SVD-20) + k-means,0.21901975435791002,0.34774305151570206,
+NMF topic model,0.11632572333740951,0.12202905304756684,
+Supervised TF-IDF + LogReg (5-fold CV),,0.8469702242859966,0.9329560229854585
